@@ -1,1 +1,1 @@
-This is a program that is using Kernel C modules 
+This is a program created using C and LINUX kernel modules. This program creates a linked list and store birthday information of six persones and thoes informations includes month, day, year and name. then load a module and when it's loaded, it traverses through the linked list and output its content to the kernel log buffer, The program will also find the youngest person in the list and 
